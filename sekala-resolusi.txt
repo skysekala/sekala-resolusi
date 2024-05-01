@@ -1,0 +1,3 @@
+resolusi sekala 
+- konsisten untuk belajar menjadi fullstack defelopment 
+- belajar memahami laravel
